@@ -1,0 +1,123 @@
+{
+  "users": {
+    "918156874290@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6283861623360@s.whatsapp.net": {
+      "premium": false,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6281380884445@s.whatsapp.net": {
+      "premium": false,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6281218023662@s.whatsapp.net": {
+      "premium": false,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6288227758096@s.whatsapp.net": {
+      "premium": false,
+      "premiumTime": -1,
+      "banned": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "918156874290@s.whatsapp.net": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363022682639473@g.us": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6283861623360@s.whatsapp.net": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": true,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6281380884445@s.whatsapp.net": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363025276613000@g.us": {
+      "goodbye": true,
+      "welcome": true,
+      "mute": false,
+      "nsfw": false,
+      "antilink": false,
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "others": {},
+  "sticker": {},
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "918156874290@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    },
+    "6281385317842@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  },
+  "anonymous": {},
+  "store": [],
+  "RSticker": [],
+  "RImage": [],
+  "RVideo": [],
+  "RVn": []
+}
